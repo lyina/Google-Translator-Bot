@@ -3,7 +3,7 @@ from Emojies import *
 
 # T O K E N
 # Keep your TOKEN secure and store it safely
-TOKEN = "TOKEN"
+TOKEN = "1477767035:AAFbdHBzGRwnUP7vblfpbSl2eqmXBO7HU-4"
 BOT_ID = int(TOKEN[:TOKEN.index(":")])
 
 
